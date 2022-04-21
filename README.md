@@ -3,6 +3,6 @@
 
 Repositório do meu curso de HTML e CSS!
 
-<a href="d001\index.html" target="_blank">
+<a href="desafios/d001/index.html" target="_blank">
 Desafio 01
 </a>
