@@ -1,36 +1,33 @@
-# html-css
- Curso de HTML5 e CSS3 do Curso em Vídeo
+# 🌐 Estudos em HTML e CSS
 
-Repositório do meu curso de HTML e CSS!
+Este repositório reúne os exercícios, desafios e pequenos projetos realizados durante meus estudos iniciais em **HTML** e **CSS**, com foco na estruturação semântica de páginas e estilização visual.
 
-<a href="desafios/d001/index.html" target="_blank">
-Desafio 01
-</a>
+---
 
-<a href="desafios/d002/index.html" target="_blank">
-Desafio 02
-</a>
+## 📁 Estrutura
 
-<a href="desafios/d003/index.html" target="_blank">
-Desafio 03
-</a>
+- `/exercicios`: Códigos simples de prática (ex: listas, tabelas, formulários)
+- `/projetos`: Projetos práticos mais completos (ex: site de apresentação, layout de exemplo)
+- `/desafios`: Desafios propostos durante o curso para testar os conhecimentos
 
-<a href="desafios/d005/index.html" target="_blank">
-Desafio 04
-</a>
+---
 
-<a href="desafios/d006/index.html" target="_blank">
-Desafio 05
-</a>
+## 🎯 Objetivos do Estudo
 
-<a href="desafios/d008/index.html" target="_blank">
-Desafio 06
-</a>
+- Praticar **HTML semântico**
+- Aprender e aplicar **CSS para estilização**
+- Estruturar páginas com **boas práticas**
+- Iniciar o uso de **versionamento com Git e GitHub**
 
-<a href="desafios/d009/index.html" target="_blank">
-Desafio 07
-</a>
+---
 
-<a href="desafios/d010/index.html" target="_blank">
-Desafio 08
-</a>
+## 🚀 Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+
+---
+
+## 📝 Observações
+
+Este repositório representa minha base em desenvolvimento web e mostra meu progresso nos primeiros passos da carreira como desenvolvedor.
