@@ -7,7 +7,6 @@ Este repositório reúne os exercícios, desafios e pequenos projetos realizados
 ## 📁 Estrutura
 
 - `/exercicios`: Códigos simples de prática (ex: listas, tabelas, formulários)
-- `/projetos`: Projetos práticos mais completos (ex: site de apresentação, layout de exemplo)
 - `/desafios`: Desafios propostos durante o curso para testar os conhecimentos
 
 ---
